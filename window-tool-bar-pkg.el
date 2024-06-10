@@ -1,2 +1,2 @@
 ;; Generated package description from window-tool-bar.el  -*- no-byte-compile: t -*-
-(define-package "window-tool-bar" "0.2.0.20240604.221628" "Add tool bars inside windows" '((emacs "29.1")) :commit "533ed7b221ab40be217e951e925739360e457b50" :url "https://elpa.gnu.org/packages/window-tool-bar.html" :authors '(("Jared Finder" . "jared@finder.org")) :maintainer '("Jared Finder" . "jared@finder.org") :keywords '("mouse"))
+(define-package "window-tool-bar" "0.2.1.0.20240609.122134" "Add tool bars inside windows" '((emacs "27.1") (compat "29.1")) :commit "e1cc2d1f61836e1da08817524999878b639e6761" :url "https://elpa.gnu.org/packages/window-tool-bar.html" :authors '(("Jared Finder" . "jared@finder.org")) :maintainer '("Jared Finder" . "jared@finder.org") :keywords '("mouse"))
